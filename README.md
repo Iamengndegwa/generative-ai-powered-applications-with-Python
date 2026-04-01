@@ -17,3 +17,5 @@ This project demonstrates building and deploying a Generative AI-powered Python 
 - Git installed for version control
 
 ## Project Structure
+
+https://myapp.286kzz1jngiw.us-south.codeengine.appdomain.cloud/
