@@ -1,4 +1,4 @@
-# Generative AI-Powered Applications with Python
+# This is a simple lab session on Gen-AI powered pyhton app deployment using Code Engine
 
 ## Overview
 This project demonstrates building and deploying a Generative AI-powered Python application using Docker and IBM Code Engine in a Cloud IDE Kubernetes environment.
